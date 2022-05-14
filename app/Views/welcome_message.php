@@ -233,34 +233,43 @@
 
 <body>
 
+
 	<header id="fh5co-header" class="fh5co-cover js-fullheight" role="banner">
 		<div class="overlay"></div>
 		<div class="container">
 			<div class="row">
 				<div class="col-md-8 col-md-offset-2 text-center">
 					<div class="display-t js-fullheight">
-						<div class="display-tc js-fullheight animate-box" data-animate-effect="fadeIn">
-							
-				<img src="../../public/img1.png" >
-							<h1>SHOLAT DAN &amp; BERKURBANLAH</h1>
-							<h2>Diselenggarakan Yayasan Lukmanul Hakim Kota Sungai Penuh </h2>
-							<!-- <p><a class="btn btn-primary btn-lg btn-demo" href="#"></i> View Demo</a> <a class="btn btn-primary btn-lg btn-learn">Learn More</a></p> -->
-							<p> Assalamu'alaikum Warahmatullahi wabarakatuh</p>
-							<p> Puji syukur senantiasa kita panjatkan atas karunia yang Allah berikan kepada kita semua, shalawat serta salam semoga tetap tercurahkan kepada Nabi besar Muhammad Shalallahu alaihi wa salam,,</p>
-							<p> Alhamdulillah, untuk saat ini masjid kita Masjid Lukmanul Hakim telah aktif melaksanakan kegiatan ibadah tertama Sholat Lima Waktu dan Sholat Jum'at.
-							</p>
-							<p>
-								untuk itu kami mengajak Bapak/Ibu/Saudara/i semua untuk ikut berpartisipasi dalam Ibadah Qurban khususnya di Masjid Lukmanul Hakim Kota Sungai Penuh.
-								Alhamdulillah, berikut kita Lampirkan daftar yang telah terdaftar ;
-							</p>
 
-						</div>
+
+						<img src="hero1.jpg">
+						<h1>SHOLAT DAN BERKURBANLAH</h1>
+						<h2>Diselenggarakan Yayasan Lukmanul Hakim Kota Sungai Penuh </h2>
+						<img src="logo.jpg">
+
+
+						<!-- <p><a class="btn btn-primary btn-lg btn-demo" href="#"></i> View Demo</a> <a class="btn btn-primary btn-lg btn-learn">Learn More</a></p> -->
+						<p> Assalamu'alaikum Warahmatullahi wabarakatuh</p>
+						<p> Puji syukur senantiasa kita panjatkan atas karunia yang Allah berikan kepada kita semua, shalawat serta salam semoga tetap tercurahkan kepada Nabi besar Muhammad Shalallahu alaihi wa salam,,</p>
+						<p> Alhamdulillah, untuk saat ini masjid kita Masjid Lukmanul Hakim telah aktif melaksanakan kegiatan ibadah tertama Sholat Lima Waktu dan Sholat Jum'at.
+						</p>
+						
+							untuk itu kami mengajak Bapak/Ibu/Saudara/i semua untuk ikut berpartisipasi dalam Ibadah Qurban khususnya di Masjid Lukmanul Hakim Kota Sungai Penuh.
+							Alhamdulillah.
+							<h4> Biaya Qurban untuk satu orangnya adalah ada sebesar Rp 2.750.000/orang. </h4>
+							<h4> Dimungkinkan adanya update data terbaru terkait harga, namun belum dipastikan</h4>
+							<h4> Jazakallahu Khair. semoga Allah Ikhaskan niat kita dan terima amal ibadah kita semua Lillaahi Ta'ala.</h4>
+							
+							Berikut kita Lampirkan daftar yang telah terdaftar Qurban ;
+						
+
 					</div>
 				</div>
-
 			</div>
+
+		</div>
 	</header>
-	<br> <br>
+	<br>
 	<div id="fh5co-features">
 		<div class="container">
 			<div class="services-padding">
@@ -272,14 +281,13 @@
 							</span>
 							<div class="feature-copy">
 								<h3> Sapi ke -I</h3>
-								<p>1. Arlet Edwin - Toko Anda <br>
-									2. ... <br>
-									3. ... <br>
-									4. ... <br>
-									5. ... <br>
-									6. ... <br>
-									7. ... <br>
-
+								<p> 1. Arlet Edwin - Toko Anda <br>
+									2. Hj. Nurlisna Senen (Lunas)_13 Mey 2022 <br>
+									3. Dr. Rinda Purmasari <br>
+									4. Tedhi Adrian Putra <br>
+									5. Ahmad Bin Arifqi <br>
+									6. Oky Puja Tri Atma <br>
+									7. Ust. Abu Aisyah Angga <br>
 								</p>
 
 								<!-- <p><a href="#">Learn More <i class="icon-arrow-right22"></i></a></p> -->
@@ -294,13 +302,8 @@
 							</span>
 							<div class="feature-copy">
 								<h3>Sapi ke-II</h3>
-								<p>1. ... <br>
-									2. ... <br>
-									3. ... <br>
-									4. ... <br>
-									5. ... <br>
-									6. ... <br>
-									7. ... <br>
+								<p>1. Keluarga besar H. Liberty ( 1. Ekor sapi )
+
 
 								</p><!-- <p><a href="#">Learn More <i class="icon-arrow-right22"></i></a></p> -->
 							</div>
@@ -313,8 +316,10 @@
 								<i class="icon-search"></i>
 							</span>
 							<div class="feature-copy">
+								
 								<h3>Sapi Ke- III</h3>
-								<p>1. ... <br>
+								<p>
+									1. ... <br>
 									2. ... <br>
 									3. ... <br>
 									4. ... <br>
@@ -385,7 +390,13 @@
 									4. ... <br>
 									5. ... <br>
 									6. ... <br>
-									7. ... <br>
+									7. ... <br> <br> <br>
+
+									<b> Data Aqikah Kambing : <br> </b>
+									1. Muhammad Hamzah Marzuq alsama' (2 ekor kambing) <br>
+									2. Rumaysha Romeeza Syukur (1 ekor kambing) <br>
+									<br>
+									<img src="img1.png" vertical-align ="midle">
 
 								</p><!-- <p><a href="#">Learn More <i class="icon-arrow-right22"></i></a></p> -->
 							</div>
@@ -403,7 +414,7 @@
 					<h2> Mari Berkurban, saudaraku</h2>
 					<p>"Laksanakanlah sholat karena Tuhanmu, dan Berkurbanlah"
 					</p>
-					<p><a href="https://api.whatsapp.com/send/?phone=+6285366979990&text=Assalamu'alaikum%2C+info+Qurbannya?" class="btn btn-default btn-lg">Info dan Daftar Qurban</a></p>
+					<p><a href="https://api.whatsapp.com/send/?phone=+6285369953357&text=Assalamu'alaikum%2C+info+Qurbannya?" class="btn btn-default btn-lg">Info dan Daftar Qurban</a></p>
 				</div>
 			</div>
 		</div>
@@ -418,7 +429,7 @@
 							<h4>Informasi : </h4>
 							<class="fh5co-footer-links">
 								Samping Hotel Grand Kerinci, belakang Jus Kaila <br> Desa Gedang Kota Sungai Penuh</li>
-								<a href="https://api.whatsapp.com/send/?phone=+6285366979990&text=Assalamu'alaikum%2C+info+Qurbannya?"> No. WA Admin : +6285366979990 </a></li>
+								<a href="https://api.whatsapp.com/send/?phone=+6285369953357&text=Assalamu'alaikum%2C+info+Qurbannya?"> No. WA Admin : +6285366979990 </a></li>
 								<!-- <li><a href="mailto:info@yoursite.com">Email Yayasan</a></li> -->
 								<!-- <li><a href="http://https://freehtml5.co">Website</a></li> -->
 
